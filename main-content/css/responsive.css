@@ -1,0 +1,262 @@
+
+@media only screen and (max-width:1265px){
+    .header-menu {
+        max-width: 480px;
+        position: fixed;
+        background: #314584;
+        height: 100%;
+        transition: .5s ease-in-out;
+        left: -100%;
+        z-index: 99999;
+        top: 0;
+        width: 100%;
+        
+        
+    }
+    .header-menu ul li{
+        display: block;
+    }
+    .header-menu ul li:last-child{
+        display: none;
+    }
+    .header-menu ul li a{
+        color: white;
+        text-align: center;
+    }
+    .toggle-btn{
+        display: block ;
+    }
+    
+
+}
+
+@media only screen and (max-width:1190px){
+    .header-menu ul li a {
+        padding: 1.8rem .8rem;
+    }
+}
+@media only screen and (max-width:1068px){
+    .span_2_of_4{
+        width: 100%;
+    }
+    .about-content-d-flax ul {
+        width: 30%;
+    }
+    .span_1_of_3{
+        width: 49.2%; 
+        margin-left: 0;
+    }
+    .span_1_of_4 {
+        width: 49.2%; 
+        margin-left: 0;
+    }
+    .service-content{
+    margin-top: 20px;
+    }
+    
+}
+@media only screen and (max-width:768px){
+     h1{
+         font-size: 40px ;
+     }
+     .contact-content form {
+        width: 100% ;
+        margin: auto;
+    }
+    .about-content-d-flax ul {
+        width: 50%;
+    }
+    .banner-text p {
+        width: 90%;
+  
+       
+    }
+    .skill-header p {
+        width: 80%;
+    }
+
+    .project-section-header p {
+        width: 80%;
+       
+    }
+    .portfolio-section p {
+        width: 80%;
+    }
+    .testimonial-header p {
+        width: 80%;
+    }
+    
+}
+@media only screen and (max-width:710px){
+    .toggle-btn{
+        left: 82%;
+        
+    }
+    .header-logo img{
+       margin-left: 5px; 
+       max-width: 100px;
+       
+    }
+}
+
+@media only screen and (max-width:710px){
+    .toggle-btn{
+        left: 80%;
+        
+    }
+    .banner-text p {
+        width: 90%;
+  
+       
+    }
+}    
+
+@media only screen and (min-width:590px) and (max-width:690px){
+    .service-content h3 {
+        padding: 0.8rem 0;
+    }
+    .service-content p {
+        padding: 1rem 0;
+        padding-bottom: 1rem;
+    }
+}    
+
+@media only screen and (max-width:590px){
+    .span_1_of_3 {
+        width: 100%;
+        margin-left: 0;
+    }
+    .span_1_of_4 {
+        width: 100%;
+        margin-left: 0;
+    }
+    .service-content{
+        margin-top: 20px;
+    }
+}   
+
+@media only screen and (max-width:490px){
+    .about-btn{
+
+        display: none;
+    }
+    .about-content-d-flax {
+        display: block;
+    }
+    .about-content-d-flax ul {
+        width: 100%;
+    }
+    nav {
+        padding: .1rem 0;
+    }
+
+}
+@media only screen and (max-width:390px){
+    .banner-btn-2 {
+        display: block;
+        width: 80%;
+        text-align: center;
+        margin: auto;
+        margin-top: 15px;
+    }
+    .banner-btn-1 {
+        display: block;
+        width: 80%;
+        text-align: center;
+        margin: auto;
+        margin-top: 20px;
+    }
+    h1{
+        font-size: 35px;
+        text-align: center;
+    }
+    .banner-text p {
+        width: 100%;
+        text-align: center;
+       
+    }
+    
+
+}
+@media only screen and (max-width:360px){
+    .toggle-btn{
+        left: 77%;
+        
+    }
+    h3{
+        font-size: 20px;
+    }
+    body h2{
+        font-size: 25px;
+    }
+    
+    .skill-header p {
+        width: 95%;
+    }
+
+    .project-section-header p {
+        width: 95%;
+       
+    }
+    .portfolio-section p {
+        width: 95%;
+    }
+    .testimonial-header p {
+        width: 95%;
+    }
+
+}   
+
+@media only screen and (max-width:350px){
+    .service-content p {
+        padding-top: 1rem;
+        margin: 0rem 1rem;
+       
+        padding-bottom: 1.5rem;
+    }
+    .service-content h3 {
+        padding: 1rem 0;
+    }
+}
+@media only screen and (max-width:280px){
+    .toggle-btn {
+        left: 74%;
+    }
+
+    .service-content p {
+        padding-bottom: 0.5rem;
+        margin: 0rem 1rem;
+    }
+    .service-content h3 {
+        padding: 0.5rem 0;
+    }
+}
+@media only screen and (max-width:260px){
+    .about-content-d-flax ul li a {
+        margin: .2rem;
+      
+    }
+    body h2 {
+        font-size: 23px;
+    }
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
